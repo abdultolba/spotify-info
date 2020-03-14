@@ -30,3 +30,7 @@ View and observe your top artists and tracks from your Spotify profile.
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Chart.js](https://www.chartjs.org/)
 - [Material UI](https://material-ui.com/)
+
+## Demo
+
+![Spotfy Info](https://github.com/abdultolba/spotify-info/blob/master/public/demo.gif "Spotify Info")
